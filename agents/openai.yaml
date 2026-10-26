@@ -1,0 +1,7 @@
+interface:
+  display_name: "繁中有聲書寫作 V2"
+  short_description: "從內容企劃、耳讀腳本到聲音規格、校聽與有聲 IP 延伸"
+  default_prompt: "使用 $audiobook-writing-v2 將我提供的內容規劃成可交付製作團隊的有聲書腳本、聲音規格與校聽清單。"
+policy:
+  allow_implicit_invocation: true
+
