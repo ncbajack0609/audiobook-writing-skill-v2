@@ -100,3 +100,7 @@ Use a separate tool or production workflow for those steps, with explicit author
 | [Agent metadata](agents/openai.yaml) | Display information and skill invocation prompt |
 
 The public writing references contain generalized methods rather than original source manuscripts. Facts, quotations, attribution, and adaptation rights still need independent verification for each project.
+
+## License
+
+Licensed under the [MIT License](LICENSE).

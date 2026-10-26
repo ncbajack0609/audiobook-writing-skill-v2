@@ -100,3 +100,7 @@ python3 scripts/style_check.py path/to/manuscript.md --mode auto --format json
 | [代理顯示資訊](agents/openai.yaml) | 顯示名稱與 Skill 呼叫提示 |
 
 公開寫作參考文件提供萃取後的通用方法，不含原始書稿。各專案仍須獨立確認事實、引言、來源歸屬與改編權利。
+
+## 授權
+
+本專案採用 [MIT 授權條款](LICENSE)。
